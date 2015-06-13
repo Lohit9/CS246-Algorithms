@@ -1,8 +1,9 @@
 # CS246-Algorithms
-This contains notes and programs implemented in C++ . The lecture slides are from Nomair's lectures. 
+This contains notes and programs implemented in C++ . 
 
+**Programs/Algorithms**
 
-Note: I will not be adding any further lectures, incase you would like them please contact me personally. Find me @ www.lohittalasila.com
+1. **Elementary Binary Search**: A findamental binary search program of an array of fixed length
 
 Cheers
 ~ L
