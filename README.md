@@ -5,5 +5,3 @@ This contains notes and programs implemented in C++ .
 
 1. **Elementary Binary Search**: A findamental binary search program of an array of fixed length
 
-Cheers
-~ L
