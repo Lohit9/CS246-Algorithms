@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// the array can easily be dynamic by using the new keyowrd. The logic is more imp
 int binarysearch (int *a,int min,int max,int find)
 {
 	int mid = (min+max)/2;
