@@ -6,7 +6,7 @@ This contains notes and programs implemented in C++ .
 1. **Elementary Binary Search**: A findamental binary search program of an array of fixed length
 
 
-**Target-List for Week of Jun 15**
+**Target-List(Upcoming algos)**
 
 1. Binary Trees: insertion, traversal, valid binary tree?, removal, completer clarity.
 2. Linked Lists
