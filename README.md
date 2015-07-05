@@ -3,7 +3,8 @@ This contains notes and programs implemented in C++ . (Notes have been discontin
 
 **Programs/Algorithms**
 
-1. **Elementary Binary Search**: A findamental binary search program of an array of fixed length
+1. **Elementary Binary Search**: A fundamental binary search program of an array of fixed length
+2. **Trinary Search Algorithm**: This is a very rarely seen algorithm, I  came across this in one of my computer science courses. 
 
 
 **Target-List(Upcoming algos)**
