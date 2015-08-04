@@ -1,5 +1,5 @@
 # CS246-Algorithms
-This contains notes and programs implemented in C++ . (Notes have been discontinued thanks to academic intergrity)
+This contains notes and programs implemented in C++ . (Notes have been discontinued)
 
 **Programs/Algorithms**
 
